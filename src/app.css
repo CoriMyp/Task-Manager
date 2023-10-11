@@ -1,0 +1,8 @@
+:root {
+	background-color: #2C2C2C;
+	user-select: none;
+}
+
+input::selection, textarea::selection {
+	background-color: #898989;
+}
